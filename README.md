@@ -735,8 +735,8 @@
     <div class="container">
       <p class="hero-tag">// ICT Application Development · CPUT · Cape Town</p>
       <h1>
-        Somilando<br>
-        <span class="line2">Boza</span><span class="highlight">.</span>
+        Somila<br>
+        <span class="line2">Ndoboza</span><span class="highlight">.</span>
       </h1>
       <p class="hero-sub">
         Final-year software development student with real-world IT support experience.
