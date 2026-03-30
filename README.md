@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Somilando Boza — ICT Developer & IT Support</title>
+  <title>Somilando Ndoboza — ICT Developer & IT Support</title>
   <link href="https://fonts.googleapis.com/css2?family=Syne:wght@400;600;700;800&family=DM+Mono:wght@300;400;500&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet"/>
   <style>
     :root {
@@ -1055,7 +1055,7 @@
 
   <footer>
     <div class="container">
-      <p>Built by <span>Somilando Boza</span> · Hosted on GitHub Pages · © 2025</p>
+      <p>Built by <span>Somilando Ndoboza</span> · Hosted on GitHub Pages · © 2025</p>
     </div>
   </footer>
 
