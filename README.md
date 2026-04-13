@@ -1,4 +1,4 @@
-# Hi, I'm Somilando Ndoboza 👋
+# Hi, I'm Somila Ndoboza 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=somilandoboza&color=0e75b6&style=flat)
 [![GitHub Pages CV](https://img.shields.io/badge/My%20CV-GitHub%20Pages-222?style=flat&logo=github)](https://somilandoboza.github.io)
